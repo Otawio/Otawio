@@ -1,4 +1,4 @@
-## Olá sou Otawio. ✔
+# Olá sou Otawio. ✔
 
 - 🔭 Atualmente estou trabalhando na área de Infraestrutura de TI no Cargo de Analista de Suporte Técnico.
 - 🌱 Estou estudando: Java, JavaScript, Html e CSS.
