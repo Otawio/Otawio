@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Otawio GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Otawio&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Otawio&layout=compact&theme=merko)](https://github.com/Otawio)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Otawio&layout=compact&theme=merko)](https://github.com/Otawio)<br>
 
 <div style="display: inline_block"><br>
   
